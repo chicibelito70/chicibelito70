@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hola 👋, soy Carlos Villavizar</h1>
-<h3 align="center">Un apasionado desarrollador frontend de la India</h3>
+<h3 align="center">Un apasionado desarrollador frontend de la Republica Domincana</h3>
 
 <p align="left"> <img src= "https://komarev.com/ghpvc/?username=chicibelito70&label=Profile%20views&color=0e75b6&style=flat" alt="chicibelito70" /> </p>
 
