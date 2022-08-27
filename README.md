@@ -1,15 +1,13 @@
 
-
+#parte principal
 <h1 align="center">Hola 👋, soy Carlos Villavizar</h1>
 <h3 align="center">Un apasionado desarrollador frontend de la Republica Domincana</h3>
 
-<p align="left"> <img src= "https://komarev.com/ghpvc/?username=chicibelito70&label=Profile%20views&color=0e75b6&style=flat" alt="chicibelito70" /> </p>
-
-<p align="left"> <a href="https: //github.com/ryo-ma/github-profile-trofeo"><img src="https://github-perfil-trofeo.vercel.app/?username=chicibelito70" alt="chicibelito70" /></ a> </p>
-
+#contactos
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
-<a href="https://twitter.com/villavizarrosa"target="en blanco"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="villavizarrosa" altura="30" ancho="40" /></a>
+<a href="https://twitter.com/villavizarrosa"target="en blanco"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="villavizarrosa" altura="10" ancho="10" /></a>
+
 <a href="https://instagram.com/dev_carlosvr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/instagram.svg" alt="dev_carlosvr" height="30" width="40" /></a>
 </p>
 
