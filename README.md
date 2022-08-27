@@ -6,7 +6,7 @@
 #contactos
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
-<a href="https://twitter.com/villavizarrosa"target="en blanco"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="villavizarrosa" altura="10" ancho="10" /></a>
+<a href="https://twitter.com/villavizarrosa"target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="villavizarrosa" altura="10" ancho="10" /></a>
 
 <a href="https://instagram.com/dev_carlosvr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/instagram.svg" alt="dev_carlosvr" height="30" width="40" /></a>
 </p>
