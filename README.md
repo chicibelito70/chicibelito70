@@ -2,14 +2,14 @@
 
 <h1 align="center">Hola 👋, soy Carlos Villavizar</h1>
 <h3 align="center">Un apasionado desarrollador frontend de la Republica Domincana</h3>
-<!--
-#contactos
+
+contactos
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
 <a href="https://twitter.com/villavizarrosa"target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="villavizarrosa" altura="10" ancho="10" /></a>
 
 <a href="https://instagram.com/dev_carlosvr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/instagram.svg" alt="dev_carlosvr" height="30" width="40" /></a>
-</p>  -->
+</p>  
 
 <h3 align="left">Idiomas y Herramientas:</h3>
 <p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www. vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target= "_blank" rel="noreferrer">
