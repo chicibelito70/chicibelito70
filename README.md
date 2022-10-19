@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Carlos Villavizar</h1>
 <h3 align="center">A passionate frontend developer from Dominican Republic</h3>
 
-- 🌱 I’m currently learning **Bootstrap**
+ - 🌱 I am currently learning **more about Ract and the web environment, in depth**
 
-- 💬 Ask me about **React**
 
 
 <h3 align="left">Connect with me:</h3>
