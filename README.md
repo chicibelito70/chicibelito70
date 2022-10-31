@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Carlos Villavizar</h1>
 <h3 align="center">A passionate frontend developer from Dominican Republic</h3>
+<h4 align="center">  Code lover, who every day seeks more ways to simplify actions. </h4>
 
  - 🌱 I am currently learning **more about Ract and the web environment, in depth**
 
