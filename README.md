@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Carlos Villavizar</h1>
 <h3 align="center">A passionate frontend developer from Dominican Republic</h3>
 
-<p align="left"> <a href="https://.com/@villavizarrosa" target="blank"><img src="https://img.shields.io/twitter/follow/@villavizarrosa?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://.com/villavizarrosa" target="blank"><img src="https://img.shields.io/twitter/follow/@villavizarrosa?logo=twitter&style=for-the-badge" alt="@villavizarrosa" /></a> </p>
 
 - 🌱 I’m currently learning **Bootstrap**
 
