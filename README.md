@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chicibeleltio70&label=Profile%20views&color=0e75b6&style=flat" alt="chicibeleltio70" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chicibeleltio70" alt="chicibeleltio70" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/@villavizarrosa" target="blank"><img src="https://img.shields.io/twitter/follow/@villavizarrosa?logo=twitter&style=for-the-badge" alt="@villavizarrosa" /></a> </p>
 
 - 🌱 I’m currently learning **Bootstrap**
