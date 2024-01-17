@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Carlos Villavizar</h1>
 <h3 align="center">A passionate frontend developer from Dominican Republicc</h3>
 
-- Learning a little from each thing that comes along, analyzing it and giving love to what I do **React**
-
-- 🌱 I’m currently learning **Bootstrap, React and etc...**
-
-- 💬 Ask me about **React**
+- Learning a little from each thing that comes along, analyzing it and giving love to what I do **Javascript**
 
 - 📫 How to reach me **Carlosvillavizar07@gmail.com**
 
